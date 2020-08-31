@@ -1,4 +1,4 @@
-function lanceiABraba(stringInicial, callback) {
+gfunction lanceiABraba(stringInicial, callback) {
   setTimeout(() => {
     callback(stringInicial);
   }, 5000);
